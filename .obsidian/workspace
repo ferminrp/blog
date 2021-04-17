@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/Instalacion de EJS Template Engine.md",
-            "mode": "preview"
+            "file": "Programacion/EJS/Renderizando una vista con EJS.md",
+            "mode": "source"
           }
         }
       }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/Instalacion de EJS Template Engine.md",
+                "file": "Programacion/EJS/Renderizando una vista con EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
