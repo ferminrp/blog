@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/Renderizando una vista con EJS.md",
-            "mode": "source"
+            "file": "Programacion/EJS/Tags de EJS.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/Renderizando una vista con EJS.md",
+                "file": "Programacion/EJS/Tags de EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
