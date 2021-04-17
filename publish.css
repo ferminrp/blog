@@ -1,0 +1,27 @@
+.theme-light {
+    --text-highlight-bg: #EB575729;
+    --text-accent: #EB5757;
+    --background-modifier-border: 
+}
+
+hr {
+    opacity: 50%;
+}
+
+.markdown-preview-view blockquote {
+    border: 0px;
+    border-left: 5px solid #F39A9A;
+}
+
+.markdown-preview-view blockquote p {
+    font-style: italic;
+}
+
+.markdown-preview-view p img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.markdown-preview-view h3, h2 {
+    margin-top: 30px;
+}

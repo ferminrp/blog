@@ -1,0 +1,18 @@
+![](https://images-na.ssl-images-amazon.com/images/I/41%2BuVWlucWL._SL2000_.jpg)
+
+### Metadata
+
+- Author: Yuval Noah Harari
+- Full Title: 21 Lessons for the 21st Century
+- Category: #books
+
+### Highlights
+
+- These lessons do not conclude with simple answers. They aim to stimulate further thinking and help readers participate in some of the major conversations of our time.
+- The merger of infotech and biotech might soon push billions of humans out of the job market and undermine both liberty and equality. Big Data algorithms might create digital dictatorships in which all power is concentrated in the hands of a tiny elite while most people suffer not from exploitation but from something far worse—irrelevance.
+- Since the corporations and entrepreneurs who lead the technological revolution naturally tend to sing the praises of their creations, it falls to sociologists, philosophers, and historians such as myself to sound the alarm and explain all the ways things can go terribly wrong.
+- Humans think in stories rather than in facts, numbers, or equations, and the simpler the story, the better.
+- during the twentieth century the global elites in New York, London, Berlin, and Moscow formulated three grand stories that claimed to explain the whole past and to predict the future of the entire world: the fascist story, the communist story, and the liberal story. The fascist story explained history as a struggle among different nations, and envisioned a world dominated by one human group that violently subdues all others. The communist story explained history as a struggle among different classes, and envisioned a world in which all groups are united by a centralized social system that ensures equality even at the price of freedom. The liberal story explained history as a struggle between liberty and tyranny, and envisioned a world in which all humans cooperate freely and peacefully, with minimum central control even at the price of some inequality. The conflict among these three stories reached its first critical peak in the Second World War, which knocked out the fascist story. From the late 1940s to the late 1980s the world became a battleground between the two remaining stories: communism and liberalism. Then the communist story collapsed, and the liberal story was left the dominant guide to the human past and the indispensable manual for the future of the world—or so it seemed to the global elite.
+- In 1938 humans were offered three global stories to choose from, in 1968 just two, and in 1998 a single story seemed to prevail. In 2018 we are down to zero. No wonder that the liberal elites, who dominated much of the world in recent decades, are in a state of shock and disorientation. To have one story is the most reassuring situation of all. Everything is perfectly clear. To be suddenly left without any story is terrifying. Nothing makes any sense.
+- The liberal political system was shaped during the industrial era to manage a world of steam engines, oil refineries, and television sets. It has difficulty dealing with the ongoing revolutions in information technology and biotechnology. Both politicians and voters are barely able to comprehend the new technologies, let alone regulate their explosive potential.
+- Humans were always far better at inventing tools than using them wisely. It is easier to manipulate a river by building a dam than it is to predict all the complex consequences this will have for the wider ecological system. Similarly, it will be easier to redirect the flow of our minds than to divine what that will do to our personal psychology or to our social systems.

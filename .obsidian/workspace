@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "687b25091d4b7226",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6b74947c99786e",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/EJS/EJS Intro.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "4b43253152884780",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/EJS/Instalacion de EJS Template Engine.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31ecfcd6cab5bc09",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e93eee425646f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c73aed43582a3e28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f44c904d406f03d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "219e3b64b1a0ee55",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ece1d71b1fb3cf37",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f1c48145551357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb16814aa01a88d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programacion/EJS/Instalacion de EJS Template Engine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "62c9fbdfc63b9ea4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330,
+    "collapsed": true
+  },
+  "active": "4b43253152884780",
+  "lastOpenFiles": [
+    "Programacion/EJS/Untitled.md",
+    "Programacion/EJS/EJS Intro.md",
+    "Attachments/Pasted image 20210417095525.png",
+    "2021-04-17.md",
+    "Dynetics.md",
+    "Blue Origin.md",
+    "Buy now pay later.md",
+    "Daily Logs/2021/Abril/2021-04-16.md",
+    "Entities/Companies & Products/Coinbase.md",
+    "Daily Logs/2021/Abril/2021-04-15.md"
+  ]
+}
