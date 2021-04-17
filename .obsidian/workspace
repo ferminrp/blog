@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+            "file": "Programacion/EJS/Archivos parciales con EJS.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+                "file": "Programacion/EJS/Archivos parciales con EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
