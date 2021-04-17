@@ -30,7 +30,12 @@ Los recursos estáticos son aquellos que no pasan por el proceso de renderizado 
 
 Para poder acceder a ellos en nuestras vistas, hace falta aclararle a Express dónde vamos a estar almacenando esos recursos.
 
-```
+```js
 app.use(express.static('public');
 ```
 
+Para acceder a los recursos estáticos vamos a comenzar la ruta con ```/```. Por ejemplo:
+
+```html
+<img src="/images/logo.png">
+```
