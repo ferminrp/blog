@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2b6b74947c99786e",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programacion/EJS/EJS Intro.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "4b43253152884780",
         "type": "leaf",
         "state": {
