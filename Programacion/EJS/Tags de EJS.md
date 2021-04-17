@@ -17,3 +17,21 @@ Si estamos usando una estructura como un condicional o un ciclo, en el medio pod
  <h2>El 4 es menor que el 5</h2>
 <% } %>
 ```
+
+![[Etiqueta de ejs.png]]
+
+**Primer paso**
+
+Escribimos la sentencia de js que queremos embeber en nuestra estructura general.
+
+```js
+for(let i = 1; i < 5; i++) { }
+```
+
+**Segundo paso**
+
+Encerramos la estructura en las etiqueas de ejs
+
+```js
+<% for(let i = 1; i < 5; i++) { } %>
+```
