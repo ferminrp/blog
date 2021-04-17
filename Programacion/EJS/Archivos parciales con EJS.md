@@ -1,0 +1,1 @@
+Si tenemos partes del código que sabemos que se repiten, podemos modularizarlo y partirlo en distintos archivos .ejs dentro de la carpeta ````/views/partials``
