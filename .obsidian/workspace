@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/Tags de EJS.md",
+            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/Tags de EJS.md",
+                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +104,9 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Programacion/EJS/Untitled.md",
     "Programacion/EJS/Tags de EJS.md",
     "Attachments/Pasted image 20210417104839.png",
-    "Programacion/EJS/Untitled.md",
     "Programacion/EJS/EJS Intro.md",
     "Attachments/Pasted image 20210417095525.png",
     "2021-04-17.md",

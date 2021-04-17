@@ -30,8 +30,19 @@ for(let i = 1; i < 5; i++) { }
 
 **Segundo paso**
 
-Encerramos la estructura en las etiqueas de ejs
+Encerramos la estructura en las etiqueas de ejs una vez por linea
 
 ```js
-<% for(let i = 1; i < 5; i++) { } %>
+<% for(let i = 1; i < 5; i++) { %>
+<% } %>
+```
+
+**Tercer paso**
+
+Escribimos el contenido que queremos mostrar en cada iteración.
+
+```js
+<% for(let i = 1; i < 5; i++) { %>
+<p> Probando las etiquetas de EJS </p>
+<% } %>
 ```
