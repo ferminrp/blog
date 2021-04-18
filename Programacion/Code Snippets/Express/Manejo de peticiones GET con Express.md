@@ -55,3 +55,38 @@ Esta propiedad es un objeto literal, cuyas claves y valores serán las mismas qu
 console.log(req.query.video)
 // 'dQw4w9WgXcQ'
 ```
+
+### Ejemplo
+
+Creamos una ruta ```/celulares``` en donde permitimos por parametro filtrar el listado por precio máximo. Por ejemplo: ```/celulares?max=20000```
+
+```js
+const express = require('express');
+const router = express.Router();
+
+const celulares = [
+    {
+        nombre: 'Motorola Moto E6 Plus',
+        precio: 14999
+    },
+    {
+        nombre: 'Motorola Moto G7',
+        precio: 19999
+    },
+    {
+        nombre: 'Alcatel 5033A',
+        precio: 6999
+    },
+    {
+        nombre: 'Samsung Galaxy A50',
+        precio: 33499
+    }
+];
+
+router.get("/celulares", (req, res) => { 
+    var result = celulares.filter(obj => {
+    return obj.b <= req.query.max
+    })
+    res.send(result)
+});
+```
