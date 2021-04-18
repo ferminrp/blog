@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Code Snippets/Express/Manejo de peticiones GET con Express.md",
+            "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Code Snippets/Express/Manejo de peticiones GET con Express.md",
+                "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
