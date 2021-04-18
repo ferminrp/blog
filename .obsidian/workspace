@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
-            "mode": "preview"
+            "file": "Programacion/Code Snippets/Express/Manejo de peticiones PUT y DELETE con Express.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
+                "file": "Programacion/Code Snippets/Express/Manejo de peticiones PUT y DELETE con Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +104,9 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Programacion/Code Snippets/Express/Untitled.md",
     "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
     "Programacion/Code Snippets/Express/Modelo MVC.md",
-    "Programacion/Code Snippets/Express/Untitled.md",
     "Programacion/Code Snippets/Express/Rutas y Rutas dinamicas.md",
     "Programacion/Code Snippets/Express/Partials con EJS.md",
     "Programacion/Code Snippets/Express/Iniciar un servidor.md",
