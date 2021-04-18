@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -104,6 +104,8 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
+    "Programacion/Code Snippets/Express/Modelo MVC.md",
     "Programacion/Code Snippets/Express/Untitled.md",
     "Programacion/Code Snippets/Express/Rutas y Rutas dinamicas.md",
     "Programacion/Code Snippets/Express/Partials con EJS.md",
@@ -111,8 +113,6 @@
     "Programacion/Code Snippets/Express/Heroku.md",
     "Programacion/HTTP/Untitled.md",
     "Programacion/EJS/Untitled.md",
-    "Programacion/EJS/Tags de EJS.md",
-    "Attachments/Pasted image 20210417104839.png",
-    "Programacion/EJS/EJS Intro.md"
+    "Programacion/EJS/Tags de EJS.md"
   ]
 }
