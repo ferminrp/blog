@@ -17,7 +17,9 @@ En todos los casos las rutas recibirán dos parámetros:
 // Enrutador
 router.get("/peliculas", (req, res) => { 
 	res.render('peliculas')
-	});
+});
+
+
 
 // Enrutador con controlador
 const controller = {
@@ -28,8 +30,28 @@ const controller = {
 
 router.get("/peliculas", controller.todas );
 
+
 // Sobre la ejecución de Express
 app.get("/peliculas", (req, res) => { 
 	res.render('peliculas')
-	} );
+} );
+```
+
+
+### Query String
+
+Es una cadena de texto —conocida como cadena de consulta— que viaja en la URL al momento de hacer una petición al servidor mediante GET.
+
+- Comienza al final de la ruta con el signo ```?```. 
+- Está formado por uno o más pares ```clave=valor```. 
+- En el caso de haber más de un par, son separados por el caracter ```&```.
+
+Para acceder al query string dentro del callback que maneja la petición lo haremos a través de la propiedad query del objeto request. 
+
+Esta propiedad es un objeto literal, cuyas claves y valores serán las mismas que viajen en la URL. Es importante tener en cuenta que todos los datos que lleguen serán de tipo string.
+
+```js
+// https://www.youtube.com/watch?video=dQw4w9WgXcQ&time=30
+console.log(req.query.video)
+// 'dQw4w9WgXcQ'
 ```
