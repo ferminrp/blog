@@ -64,7 +64,8 @@ npm install method-override --save
 Una vez instalado, hay que configurar la aplicación en ```app.js``` para poder sobreescribir el método original y poder implementar los métodos PUT o DELETE:
 
 ```js
-const methodOverride = require('method-override'); app.use(methodOverride('\_method'));
+const methodOverride = require('method-override');
+app.use(methodOverride('\_method'));
 ```
 
 ### Configurar el formulario
