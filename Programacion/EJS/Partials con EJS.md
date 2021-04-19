@@ -6,7 +6,7 @@ En app.js dejamos despues de definir el puerto
 app.set('view engine', 'ejs')
 ```
 
-En app.js en vez de res.send, vamos a usar res.render() y para las rutas en vez de './views/home' usamos `home`
+En app.js en vez de res.send, vamos a usar res.render() y para las rutas en vez de ```./views/home``` usamos `home`
 
 
 Crear en public una carpeta partials, dentro de esa los componentes, con la extension .ejs, por ejemplo `header.ejs`

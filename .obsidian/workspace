@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+    "Programacion/EJS/Tags de EJS.md",
+    "Programacion/EJS/Renderizando una vista con EJS.md",
+    "Programacion/EJS/Partials con EJS.md",
+    "Programacion/EJS/Instalacion de EJS Template Engine.md",
+    "Programacion/EJS/EJS Intro.md",
+    "Programacion/EJS/Archivos parciales con EJS.md",
     "Home.md",
     "Programacion/Express/Heroku.md",
-    "Programacion/Express/Iniciar un servidor.md",
-    "Programacion/Express/Untitled.md",
-    "Programacion/Express/CRUD/Untitled.md",
-    "Daily Logs/2021/Abril/2021-04-19.md",
-    "2021-04-19.md",
-    "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
-    "Programacion/Code Snippets/Express/Iniciar un servidor.md",
-    "Programacion/Code Snippets/Express/Modelo MVC.md"
+    "Programacion/Express/Iniciar un servidor.md"
   ]
 }
