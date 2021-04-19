@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Modulo FS.md",
-            "mode": "source"
+            "file": "Programacion/Express/Heroku.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Modulo FS.md",
+                "file": "Programacion/Express/Heroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Programacion/Express/Heroku.md",
+    "Programacion/Express/Iniciar un servidor.md",
     "Programacion/Express/Untitled.md",
     "Programacion/Express/CRUD/Untitled.md",
     "Daily Logs/2021/Abril/2021-04-19.md",
@@ -111,8 +113,6 @@
     "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
     "Programacion/Code Snippets/Express/Iniciar un servidor.md",
     "Programacion/Code Snippets/Express/Modelo MVC.md",
-    "Programacion/Code Snippets/Express/Untitled.md",
-    "Programacion/Code Snippets/Express/Rutas y Rutas dinamicas.md",
-    "Programacion/Code Snippets/Express/Partials con EJS.md"
+    "Programacion/Code Snippets/Express/Untitled.md"
   ]
 }
