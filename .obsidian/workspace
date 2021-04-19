@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
-            "mode": "preview"
+            "file": "2021-04-19.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
+                "file": "2021-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "2021-04-19.md",
     "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
     "Programacion/Code Snippets/Express/Iniciar un servidor.md",
     "Programacion/Code Snippets/Express/Modelo MVC.md",
@@ -112,7 +113,6 @@
     "Programacion/Code Snippets/Express/Partials con EJS.md",
     "Programacion/Code Snippets/Express/Heroku.md",
     "Programacion/HTTP/Untitled.md",
-    "Programacion/EJS/Untitled.md",
-    "Programacion/EJS/Tags de EJS.md"
+    "Programacion/EJS/Untitled.md"
   ]
 }
