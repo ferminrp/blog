@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Heroku.md",
+            "file": "Home.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Heroku.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "Home.md",
     "Programacion/Express/Heroku.md",
     "Programacion/Express/Iniciar un servidor.md",
     "Programacion/Express/Untitled.md",
@@ -112,7 +113,6 @@
     "2021-04-19.md",
     "Programacion/Code Snippets/Express/Manejo de peticiones POST con Express.md",
     "Programacion/Code Snippets/Express/Iniciar un servidor.md",
-    "Programacion/Code Snippets/Express/Modelo MVC.md",
-    "Programacion/Code Snippets/Express/Untitled.md"
+    "Programacion/Code Snippets/Express/Modelo MVC.md"
   ]
 }
