@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Modelo Vista Controlador/Controladores.md",
+            "file": "Programacion/Express/Modelo Vista Controlador/Rutas.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Modelo Vista Controlador/Controladores.md",
+                "file": "Programacion/Express/Modelo Vista Controlador/Rutas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

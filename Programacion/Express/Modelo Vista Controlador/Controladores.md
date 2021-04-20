@@ -71,9 +71,17 @@ router.get('/', productosController.index);
 
 **Controller:**
 
+```js
 const controlador = {
 	 index: (req, res) => {
 		 res.send('Index de productos');
- },
-};
+		 },
+	};
 module.exports = controlador;
+```
+
+**Router:**
+```js
+const productosController = require('../controllers/productosController');
+router.get('/', productosController.index);
+```
