@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
-            "mode": "preview"
+            "file": "Programacion/Express/Multer.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
+                "file": "Programacion/Express/Multer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "61dff2fd9b371551",
   "lastOpenFiles": [
-    "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/Express/Modelo Vista Controlador/Untitled.md",
+    "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/Vue.js/Untitled.md",
     "Daily Logs/2021/Abril/2021-04-20.md",
     "Entities/Cripto/Bitcoin Cash.md",
