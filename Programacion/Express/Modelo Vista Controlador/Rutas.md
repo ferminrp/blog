@@ -69,3 +69,10 @@ En app.js + lo siguiente en router
 
 ```js
 router.get('/detalle/:id', (req, res) => { // código });
+```
+
+Tendrian como resultado
+
+```js
+/productos/detalle/:id
+```
