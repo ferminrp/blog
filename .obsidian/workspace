@@ -6,12 +6,14 @@
       {
         "id": "4b43253152884780",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
-            "mode": "preview"
-          }
+            "file": "Daily Logs/2021/Abril/2021-04-20.md",
+            "mode": "source"
+          },
+          "pinned": true
         }
       }
     ],
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+                "file": "Daily Logs/2021/Abril/2021-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +106,7 @@
   },
   "active": "4b43253152884780",
   "lastOpenFiles": [
+    "2021-04-20.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/EJS/Tags de EJS.md",
     "Programacion/EJS/Renderizando una vista con EJS.md",
@@ -112,7 +115,6 @@
     "Programacion/EJS/EJS Intro.md",
     "Programacion/EJS/Archivos parciales con EJS.md",
     "Home.md",
-    "Programacion/Express/Heroku.md",
-    "Programacion/Express/Iniciar un servidor.md"
+    "Programacion/Express/Heroku.md"
   ]
 }
