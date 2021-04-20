@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Logs/2021/Abril/2021-04-20.md",
+            "file": "Programacion/Vue.js/Vue.js Resources.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-20.md",
+                "file": "Programacion/Vue.js/Vue.js Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "61dff2fd9b371551",
   "lastOpenFiles": [
+    "Programacion/Vue.js/Untitled.md",
     "Daily Logs/2021/Abril/2021-04-20.md",
     "Entities/Cripto/Bitcoin Cash.md",
     "Litecoin.md",
@@ -112,7 +113,6 @@
     "Bitcoin.md",
     "2021-04-20.md",
     "Paypal.md",
-    "Venmo.md",
-    "Programacion/EJS/EJS compartir información del controlador a las vistas.md"
+    "Venmo.md"
   ]
 }
