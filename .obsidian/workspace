@@ -4,16 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4b43253152884780",
+        "id": "61dff2fd9b371551",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Daily Logs/2021/Abril/2021-04-20.md",
-            "mode": "source"
-          },
-          "pinned": true
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -104,12 +102,12 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "4b43253152884780",
+  "active": "61dff2fd9b371551",
   "lastOpenFiles": [
     "Daily Logs/2021/Abril/2021-04-20.md",
+    "2021-04-20.md",
     "Paypal.md",
     "Venmo.md",
-    "2021-04-20.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/EJS/Tags de EJS.md",
     "Programacion/EJS/Renderizando una vista con EJS.md",
