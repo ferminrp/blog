@@ -19,9 +19,9 @@ Por cada una de ellas utilizaremos el objeto router seguido del método que esta
 
 // Ruta raíz de los productos / Inicio
 router.get('/', (req, res) => {
- // código
+ 	// código
 });
 // Ruta que muestra el detalle de un producto
 router.get('/detalle/:id', (req, res) => {
- // código
+ 	// código
 });
