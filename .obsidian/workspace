@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Heroku.md",
+            "file": "Programacion/Express/Rutas y Rutas dinamicas.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "req.para",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Heroku.md",
+                "file": "Programacion/Express/Rutas y Rutas dinamicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
   },
   "active": "7eb103a069e50064",
   "lastOpenFiles": [
+    "Programacion/Express/Rutas y Rutas dinamicas.md",
     "Programacion/Express/Heroku.md",
     "Daily Logs/2021/Abril/2021-04-21.md",
     "2021-04-21.md",
@@ -125,7 +127,6 @@
     "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/Vue.js/Untitled.md",
     "Daily Logs/2021/Abril/2021-04-20.md",
-    "Entities/Cripto/Bitcoin Cash.md",
-    "Litecoin.md"
+    "Entities/Cripto/Bitcoin Cash.md"
   ]
 }
