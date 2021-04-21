@@ -6,12 +6,14 @@
       {
         "id": "61dff2fd9b371551",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Multer.md",
+            "file": "Daily Logs/2021/Abril/2021-04-21.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Multer.md",
+                "file": "Daily Logs/2021/Abril/2021-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +106,8 @@
   },
   "active": "61dff2fd9b371551",
   "lastOpenFiles": [
+    "2021-04-21.md",
+    "Programacion/Express/Multer.md",
     "Programacion/Express/Modelo Vista Controlador/Untitled.md",
     "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/Vue.js/Untitled.md",
@@ -111,8 +115,6 @@
     "Entities/Cripto/Bitcoin Cash.md",
     "Litecoin.md",
     "Bitcoin Cash.md",
-    "Ethereum.md",
-    "Bitcoin.md",
-    "2021-04-20.md"
+    "Ethereum.md"
   ]
 }
