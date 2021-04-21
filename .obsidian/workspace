@@ -15,6 +15,17 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "7eb103a069e50064",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/Express/Heroku.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-21.md",
+                "file": "Programacion/Express/Heroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +115,10 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "61dff2fd9b371551",
+  "active": "7eb103a069e50064",
   "lastOpenFiles": [
+    "Programacion/Express/Heroku.md",
+    "Daily Logs/2021/Abril/2021-04-21.md",
     "2021-04-21.md",
     "Programacion/Express/Multer.md",
     "Programacion/Express/Modelo Vista Controlador/Untitled.md",
@@ -113,8 +126,6 @@
     "Programacion/Vue.js/Untitled.md",
     "Daily Logs/2021/Abril/2021-04-20.md",
     "Entities/Cripto/Bitcoin Cash.md",
-    "Litecoin.md",
-    "Bitcoin Cash.md",
-    "Ethereum.md"
+    "Litecoin.md"
   ]
 }
