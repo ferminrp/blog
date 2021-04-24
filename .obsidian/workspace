@@ -19,12 +19,14 @@
       {
         "id": "7eb103a069e50064",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Logs/2021/Abril/2021-04-23.md",
+            "file": "Diseño/Color Theory.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-23.md",
+                "file": "Diseño/Color Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +119,15 @@
   },
   "active": "7eb103a069e50064",
   "lastOpenFiles": [
+    "Diseño/Color Theory.md",
+    "Attachments/color-theory_0.png",
+    "Diseño/Untitled.md",
+    "Daily Logs/2021/Abril/2021-04-23.md",
     "2021-04-23.md",
     "Programacion/EJS/Archivos parciales con EJS.md",
     "Programacion/Express/Rutas y Rutas dinamicas.md",
     "Programacion/Express/Heroku.md",
     "Daily Logs/2021/Abril/2021-04-21.md",
-    "2021-04-21.md",
-    "Programacion/Express/Multer.md",
-    "Programacion/Express/Modelo Vista Controlador/Untitled.md",
-    "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
-    "Programacion/Vue.js/Untitled.md"
+    "2021-04-21.md"
   ]
 }
