@@ -1,6 +1,6 @@
 Un listado bastante actualizado de herramientas que uso seguido. Para uso personal como de laburo. Si tenes recomendaciones siempre son bienvenidas via twitter: **[@ferminrp](https://twitter.com/ferminrp)**
 
-Último update: 04/01/2020
+Último update: 2021-04-26
 
 ### **SEO**
 
@@ -105,10 +105,11 @@ Un listado bastante actualizado de herramientas que uso seguido. Para uso person
 -   Gmail Alternative: **[Hey](https://offf.to/zZeH)**
 -   App para guardarse series, libros, articulos: [**Listy**](https://offf.to/6VLX)
 
-### Colores & Design
+### Design
 
 -   [**Coolors**](https://offf.to/exZj)
 -   [**Haikei**](https://haikei.app/)
+- [**Type-Scale**](https://type-scale.com)
 
 ### Fotografía
 

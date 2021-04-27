@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+            "file": "Daily Logs/2021/Abril/2021-04-27.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+                "file": "Daily Logs/2021/Abril/2021-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
   },
   "active": "89f1756eefd3e28a",
   "lastOpenFiles": [
+    "Daily Logs/2021/Abril/2021-04-27.md",
+    "Tesla.md",
+    "Toyota.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/EJS/Archivos parciales con EJS.md",
     "Programacion/Express/Heroku.md",
     "Daily Logs/2021/Abril/2021-04-21.md",
     "Programacion/Express/Modelo Vista Controlador/Controladores.md",
     "Programacion/Express/Modelo Vista Controlador/Rutas.md",
-    "Programacion/Express/Rutas y Rutas dinamicas.md",
-    "Programacion/Express/Modulo FS.md",
-    "Programacion/Express/Modelo MVC.md",
-    "Programacion/HTTP/HTTP.md"
+    "Programacion/Express/Rutas y Rutas dinamicas.md"
   ]
 }
