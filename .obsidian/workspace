@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89f1756eefd3e28a",
+        "id": "f5afff2f655db246",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Logs/2021/Abril/2021-04-27.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +98,9 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "89f1756eefd3e28a",
+  "active": "f5afff2f655db246",
   "lastOpenFiles": [
+    "Lyft.md",
     "Daily Logs/2021/Abril/2021-04-27.md",
     "Tesla.md",
     "Toyota.md",
@@ -112,7 +109,6 @@
     "Programacion/Express/Heroku.md",
     "Daily Logs/2021/Abril/2021-04-21.md",
     "Programacion/Express/Modelo Vista Controlador/Controladores.md",
-    "Programacion/Express/Modelo Vista Controlador/Rutas.md",
-    "Programacion/Express/Rutas y Rutas dinamicas.md"
+    "Programacion/Express/Modelo Vista Controlador/Rutas.md"
   ]
 }
