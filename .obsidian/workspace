@@ -7,8 +7,11 @@
         "id": "32b2b98c23df5560",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Federated Learning of Cohorts - FLoC.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Federated Learning of Cohorts - FLoC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,8 @@
   },
   "active": "32b2b98c23df5560",
   "lastOpenFiles": [
+    "Concepts/Federated Learning of Cohorts - FLoC.md",
+    "Home.md",
     "Microsoft.md",
     "2021-04-28.md",
     "Lyft.md",
@@ -107,8 +113,6 @@
     "Tesla.md",
     "Toyota.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
-    "Programacion/EJS/Archivos parciales con EJS.md",
-    "Programacion/Express/Heroku.md",
-    "Daily Logs/2021/Abril/2021-04-21.md"
+    "Programacion/EJS/Archivos parciales con EJS.md"
   ]
 }
