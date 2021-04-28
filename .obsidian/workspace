@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5afff2f655db246",
+        "id": "32b2b98c23df5560",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily Logs/2021/Abril/2021-04-28.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +98,9 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "f5afff2f655db246",
+  "active": "32b2b98c23df5560",
   "lastOpenFiles": [
+    "Microsoft.md",
     "2021-04-28.md",
     "Lyft.md",
     "Daily Logs/2021/Abril/2021-04-27.md",
@@ -112,7 +109,6 @@
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/EJS/Archivos parciales con EJS.md",
     "Programacion/Express/Heroku.md",
-    "Daily Logs/2021/Abril/2021-04-21.md",
-    "Programacion/Express/Modelo Vista Controlador/Controladores.md"
+    "Daily Logs/2021/Abril/2021-04-21.md"
   ]
 }
