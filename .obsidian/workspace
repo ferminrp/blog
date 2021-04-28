@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Federated Learning of Cohorts - FLoC.md",
+            "file": "Entities/Companies & Products/Github.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Federated Learning of Cohorts - FLoC.md",
+                "file": "Entities/Companies & Products/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "32b2b98c23df5560",
   "lastOpenFiles": [
+    "Github.md",
     "Concepts/Federated Learning of Cohorts - FLoC.md",
     "Home.md",
     "Microsoft.md",
@@ -112,7 +113,6 @@
     "Daily Logs/2021/Abril/2021-04-27.md",
     "Tesla.md",
     "Toyota.md",
-    "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
-    "Programacion/EJS/Archivos parciales con EJS.md"
+    "Programacion/EJS/EJS compartir información del controlador a las vistas.md"
   ]
 }

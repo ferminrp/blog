@@ -77,7 +77,7 @@ Deberia devolvernos algo como:
 
 ## Updates
 
-📆 [[]]
+📆 [[2021-04-28]] [[Github]] bloquea FLoC en todas sus páginas. [Link](https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/)
 
 ---
 
