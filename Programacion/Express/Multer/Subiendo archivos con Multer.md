@@ -1,4 +1,4 @@
-Antes de esto conviene ver la intro a [[Multer]]
+Antes de esto conviene ver la intro a [[Multer]] y la [documentación oficial](http://expressjs.com/en/resources/middleware/multer.html).
 
 Primero que nada vamos a tener que solicitar el module con:
 

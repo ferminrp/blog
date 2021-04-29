@@ -1,5 +1,7 @@
 Multer es un paquete de npm que se utiliza para procesar archivos del lado del servidor. Este paquete es usado generalmente como un middleware y no solo nos va a permitir subir archivos al servidor, sino que también nos permite elegir en qué ubicación del servidor queremos que se almacenen estos archivos y el nombre con el que se guardará cada uno de ellos.
 
+[Documentacion oficial](http://expressjs.com/en/resources/middleware/multer.html)
+
 ### Instalacion
 
 ```bash
@@ -17,12 +19,12 @@ const multer = require('multer');
 Con Multer dentro del archivo de rutas, lo siguiente que tendremos que hacer es configurar qué carpeta dentro del servidor almacenará los archivos subidos y, a su vez, establecer el nombre que recibirá cada archivo procesado. Así:
 
 ```js
-const storage = multer.diskStorage({ 
-  destination: function (req, file, cb) { 
-     cb(null, './public/images/avatars'); 
-  }, 
-  filename: function (req, file, cb) { 
-     cb(null, \`${Date.now()}\_img\_${path.extname(file.originalname)}\`);  } 
+const storage = multer.diskStorage({ 
+  destination: function (req, file, cb) { 
+     cb(null, './public/images/avatars'); 
+  }, 
+  filename: function (req, file, cb) { 
+     cb(null, `${Date.now()}_img_${path.extname(file.originalname)}`);  } 
 })
 ```
 
