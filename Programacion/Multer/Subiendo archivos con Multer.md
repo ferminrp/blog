@@ -37,4 +37,43 @@ En filename, usamos el callback (cb) para definir el nombre con el que guardarem
 
 ## Configurando la ruta
 
-Habiendo indicado do
+Habiendo indicado donde se almacenaran y como se llamaran los archivos que estamos subiendo al servidor. Ahora tenemos que configurar la ruta que se encarga de manejar la peticion de la subida de archivos, es decir, la ruta que indicamos en nuestro action del formulario.
+
+
+```js
+/*
+const multer = require('multer')
+
+var storage = multer.diskStorage({
+	// destination permite definir la carpeta donde se va a almacenar el archivo
+	destination: function(req,file,cb) {
+		cb(null,'/uploads')
+	},
+	// filename permite indicar con que nombre se guardara ese archivo en el servidor
+	filename: function (req,file,cb) {
+		cb(null, file.fieldname + '-' + Date.now())
+	}
+
+})
+
+var upload = multer({storage:storage})*/
+
+app.post('/register', upload.single('avatarFile'), (req, res) => {
+	console.log(req.file) // nos devuelve un objeto con la informacion del archivo
+	res.send('Archivo subido correctamente')
+})
+
+```
+
+### ```.single()```
+
+Para indicar que vamos a subir un archivo usamos ```.single(nombre)```, donde nombre tiene que coincidir con el atributo name del input del formulario.
+
+###  ```.array()```
+
+Si vamos a subir mas de un archivo usamos ```.array(nombre)``` donde nombre tiene que coincidir con el nae del input del formulario. El input tambien tiene que tener la propiedad multiple.
+
+```html
+<input type="file" name="avatarFiles" id="file" multiple
+```
+
