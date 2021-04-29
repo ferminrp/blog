@@ -69,11 +69,20 @@ app.post('/register', upload.single('avatarFile'), (req, res) => {
 
 Para indicar que vamos a subir un archivo usamos ```.single(nombre)```, donde nombre tiene que coincidir con el atributo name del input del formulario.
 
-###  ```.array()```
+### ```.array()```
 
 Si vamos a subir mas de un archivo usamos ```.array(nombre)``` donde nombre tiene que coincidir con el nae del input del formulario. El input tambien tiene que tener la propiedad multiple.
 
 ```html
-<input type="file" name="avatarFiles" id="file" multiple
+<input type="file" name="avatarFiles" id="file" multiple>
 ```
 
+
+```js
+var upload = multer({storage:storage})
+
+app.post('/register', upload.array('avatarFiles'), (req, res, next) => {
+	console.log(req.files) // nos devuelve un objeto con la informacion del archivo
+	res.send('Archivos subido correctamente')
+})
+```

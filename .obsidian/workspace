@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Multer/Subiendo archivos con Multer.md",
-            "mode": "source"
+            "file": "Programacion/Express/Multer/Multer.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Multer/Subiendo archivos con Multer.md",
+                "file": "Programacion/Express/Multer/Multer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "c033a27127b6a18b",
   "lastOpenFiles": [
+    "Programacion/Multer/Multer.md",
     "Programacion/Multer/Untitled.md",
     "Programacion/Express/Multer.md",
     "Daily Logs/2021/Abril/2021-04-29.md",
@@ -112,7 +113,6 @@
     "Attachments/Pasted image 20210429085214.png",
     "2021-04-29.md",
     "Github.md",
-    "Concepts/Federated Learning of Cohorts - FLoC.md",
-    "Home.md"
+    "Concepts/Federated Learning of Cohorts - FLoC.md"
   ]
 }
