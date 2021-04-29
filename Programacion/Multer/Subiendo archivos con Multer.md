@@ -13,9 +13,11 @@ Multer ofrece la opcion de almacenar archivos en el disco, por lo que usaremos e
 const multer = require('multer')
 
 var storage = multer.diskStorage({
+	// destination permite definir la carpeta donde se va a almacenar el archivo
 	destination: function(req,file,cb) {
 		cb(null,'/uploads')
 	},
+	// filename permite indicar con que nombre se guardara ese archivo en el servidor
 	filename: function (req,file,cb) {
 		cb(null, file.fieldname + '-' + Date.now())
 	}
@@ -24,3 +26,15 @@ var storage = multer.diskStorage({
 
 var upload = multer({storage:storage})
 ```
+
+### destination
+
+En destination usaremos el callback (cb) para definir la carpeta en donde queremos almacenar los archivos. El primer parámetro sera ```null```, el segundo, la ruta hacia la carpeta de destino. Si no se proporciona ningún destino, se utiliza el directorio predeterminado del sistema operativo para archivos temporales.
+
+### filename
+
+En filename, usamos el callback (cb) para definir el nombre con el que guardaremos el archivo. El primer parámetro será ```null```, el segundo, el nombre del archivo. Por ejemplo, podemos usar la variable ```fle``` en el parquete ```path``` para crear el nombre del archivo, junto con el metodo ```extname()``` del paquete, psándole como parámetro el nombre original del archivo para que nos devuelba únicamente su extensión.
+
+## Configurando la ruta
+
+Habiendo indicado do
