@@ -6,12 +6,14 @@
       {
         "id": "32b2b98c23df5560",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Daily Logs/2021/Abril/2021-04-29.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -104,15 +106,15 @@
   },
   "active": "32b2b98c23df5560",
   "lastOpenFiles": [
+    "Daily Logs/2021/Abril/2021-04-29.md",
+    "Entities/Companies & Products/Alibaba.md",
+    "Telegram.md",
+    "Attachments/Pasted image 20210429085214.png",
     "2021-04-29.md",
     "Github.md",
     "Concepts/Federated Learning of Cohorts - FLoC.md",
     "Home.md",
     "Microsoft.md",
-    "2021-04-28.md",
-    "Lyft.md",
-    "Daily Logs/2021/Abril/2021-04-27.md",
-    "Tesla.md",
-    "Toyota.md"
+    "2021-04-28.md"
   ]
 }
