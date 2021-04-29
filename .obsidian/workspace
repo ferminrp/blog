@@ -4,16 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "32b2b98c23df5560",
+        "id": "c033a27127b6a18b",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Logs/2021/Abril/2021-04-29.md",
-            "mode": "preview"
-          },
-          "pinned": true
+            "file": "Programacion/Multer/Subiendo archivos con Multer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Logs/2021/Abril/2021-04-29.md",
+                "file": "Programacion/Multer/Subiendo archivos con Multer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +102,10 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "32b2b98c23df5560",
+  "active": "c033a27127b6a18b",
   "lastOpenFiles": [
+    "Programacion/Multer/Untitled.md",
+    "Programacion/Express/Multer.md",
     "Daily Logs/2021/Abril/2021-04-29.md",
     "Entities/Companies & Products/Alibaba.md",
     "Telegram.md",
@@ -113,8 +113,6 @@
     "2021-04-29.md",
     "Github.md",
     "Concepts/Federated Learning of Cohorts - FLoC.md",
-    "Home.md",
-    "Microsoft.md",
-    "2021-04-28.md"
+    "Home.md"
   ]
 }
