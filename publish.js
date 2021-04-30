@@ -9,4 +9,4 @@ function include(file) {
     
   }
 
-  include('https://data.ferminrp.com/js/index.js');
+  include('https://scripts.simpleanalyticscdn.com/latest.js');
