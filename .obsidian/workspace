@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+            "file": "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
+                "file": "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "0641123d5724ff39",
   "lastOpenFiles": [
+    "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/Express/Multer/Validacion de archivos con Multer.md",
     "Programacion/Express/Multer/Subiendo archivos con Multer.md",
@@ -125,7 +126,6 @@
     "Programacion/Multer/Multer.md",
     "Programacion/Multer/Untitled.md",
     "Programacion/Express/Multer.md",
-    "Daily Logs/2021/Abril/2021-04-29.md",
-    "Entities/Companies & Products/Alibaba.md"
+    "Daily Logs/2021/Abril/2021-04-29.md"
   ]
 }
