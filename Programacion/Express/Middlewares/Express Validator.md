@@ -37,7 +37,8 @@ El segundo paso será crear una variable donde almacenaremos el conjunto de vali
 let validateRegister = [] // validaciones aquí
 ```
 
-El metodo check
+**El metodo ```check()```**
+
 El método check() nos permite agregar validaciones para cualquiera de los campos del formulario. Como parámetro recibe el nombre del campo a validar. 
 
 Si por ejemplo queremos validar el campo name, el método quedaría así:
@@ -52,4 +53,66 @@ Suponiendo que quisiéramos validar que el campo no esté vacío, sobre el méto
 const validateRegister = [ 
 	check('name').notEmpty() 
 ]
+```
+
+**Tipos de validaciones**
+
+```js
+check('campo')
+ .notEmpty() // Verifica que el campo no esté vacío
+ .isLength({ min: 5, max: 10 }) // Verifica la longitud de los datos
+ .isEmail() // Verifica que sea un email válido
+ .isInt() // Verifica que sea un número entero
+```
+
+Como pueden ver, podemos tener más de una validación para el mismo campo. Si ese es el caso, simplemente ejecutamos un método seguido del otro. La lista completa de validaciones puede verse [aquí](https://github.com/validatorjs/validator.js#validators).
+
+**Mensajes de error **
+
+Además de las validaciones, Express Validator nos permite definir el mensaje que recibirá el usuario por cada validación que falle. 
+
+Para implementar los mensajes, utilizamos el método ```withMessage()``` a continuación de cada validación.
+
+```js
+check('name')
+ .notEmpty().withMessage('Debes completar el nombre')
+ .isLength({ min: 5 }).withMessage('El nombre debe tener al menos 5
+caracteres')
+
+```
+
+**Cortando la cadena de validación**
+
+En algunos casos vamos a querer cortar la validación, ya que si por ejemplo un campo está vacío, no tiene sentido verificar si es un e-mail válido. 
+
+Si no cortamos la validación, el usuario recibirá todos los errores juntos en lugar de solo el que corresponda. 
+
+Para esos casos, podemos implementar el método ```bail()```.
+
+```js
+check('email')
+ .notEmpty().withMessage('Debes completar el email').bail()
+ // En caso de que la primera validación falle,
+ // las siguientes no se ejecutan para ese campo.
+ .isEmail().withMessage('Debes completar un email válido')
+
+```
+
+**El array de validaciones completo **
+
+En resumen, cuando terminemos de escribir nuestras validaciones, tendremos un array, con un elemento por campo, con todas sus validaciones.
+
+```js
+const validateRegister = [
+ check('name')
+ .notEmpty().withMessage('Debes completar el nombre').bail()
+ .isLength({ min: 5 }).withMessage('El nombre debe ser más largo'),
+ check('email')
+ .notEmpty().withMessage('Debes completar el email').bail()
+ .isEmail().withMessage('Debes completar un email válido'),
+ check('password')
+ .notEmpty().withMessage('Debes completar la contraseña').bail()
+ .isLength({ min: 8 }).withMessage('La contraseña debe ser más larga')
+]
+
 ```
