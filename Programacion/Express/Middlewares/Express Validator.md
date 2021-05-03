@@ -105,14 +105,26 @@ En resumen, cuando terminemos de escribir nuestras validaciones, tendremos un ar
 ```js
 const validateRegister = [
  check('name')
- .notEmpty().withMessage('Debes completar el nombre').bail()
- .isLength({ min: 5 }).withMessage('El nombre debe ser más largo'),
+	 .notEmpty().withMessage('Debes completar el nombre').bail()
+	 .isLength({ min: 5 }).withMessage('El nombre debe ser más largo'),
+	
  check('email')
- .notEmpty().withMessage('Debes completar el email').bail()
- .isEmail().withMessage('Debes completar un email válido'),
+	 .notEmpty().withMessage('Debes completar el email').bail()
+	 .isEmail().withMessage('Debes completar un email válido'),
+	
  check('password')
- .notEmpty().withMessage('Debes completar la contraseña').bail()
- .isLength({ min: 8 }).withMessage('La contraseña debe ser más larga')
+	 .notEmpty().withMessage('Debes completar la contraseña').bail()
+	 .isLength({ min: 8 }).withMessage('La contraseña debe ser más larga')
 ]
 
+```
+
+### 3. Agregarlo como middleware de la ruta que procesa el formulario. 
+
+Terminadas nuestras validaciones es hora de implementarlas y para eso las agregaremos en la ruta que procese el formulario que queremos validar. Este middleware, se ubica entre la ruta y la acción del controlador.
+
+```js
+const validateRegister = [ … ];
+// Procesamiento del formulario de creación
+router.post('/', validateRegister, userController.processRegister);
 ```
