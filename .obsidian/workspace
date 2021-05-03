@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c033a27127b6a18b",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programacion/Express/Multer/Validacion de archivos con Multer.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "0641123d5724ff39",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/CRUD/Manejo de peticiones POST con Express.md",
+            "file": "Programacion/Express/Middlewares/Middlewares de aplicacion global con Express.md",
             "mode": "source"
           }
         }
@@ -89,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/CRUD/Manejo de peticiones POST con Express.md",
+                "file": "Programacion/Express/Middlewares/Middlewares de aplicacion global con Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +104,7 @@
   },
   "active": "0641123d5724ff39",
   "lastOpenFiles": [
+    "Programacion/Express/Middlewares/Untitled.md",
     "Programacion/Express/CRUD/Manejo de peticiones POST con Express.md",
     "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
@@ -125,7 +113,6 @@
     "Programacion/Express/Multer/Untitled.md",
     "Programacion/Express/Multer/Multer.md",
     "Programacion/Multer/Multer.md",
-    "Programacion/Multer/Untitled.md",
-    "Programacion/Express/Multer.md"
+    "Programacion/Multer/Untitled.md"
   ]
 }
