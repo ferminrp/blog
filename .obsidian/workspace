@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Middlewares/Middlewares de aplicacion por ruta con Express.md",
-            "mode": "preview"
+            "file": "Programacion/Express/Middlewares/Express Validator.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Middlewares/Middlewares de aplicacion por ruta con Express.md",
+                "file": "Programacion/Express/Middlewares/Express Validator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
