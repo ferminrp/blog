@@ -20,4 +20,18 @@ Esta función callback no espera un resultado o return.
 
 ## ```filter()```
 
-Crea un nuevo array que contiene unicamen
+^261f9e
+
+Crea un nuevo array que contiene unicamente los elemento del viejo que "pasen la prueba" de la función callback.
+
+![Image](https://pbs.twimg.com/media/E0ht_evXMAMbm7S?format=png&name=small)
+
+## ```find()```
+
+Es similar al metodo [[#^261f9e]] pero solo devuelve un elemento.
+
+El metodo se detiene cuando encuentra el primer elemento que "pase la prueba".
+
+Si no encuentra ninguno, devuelve undefined.
+
+![Image](https://pbs.twimg.com/media/E0ht_eZXsAM7pZf?format=png&name=small)
