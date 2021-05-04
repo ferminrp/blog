@@ -43,10 +43,11 @@ Crea un nuevo array que contiene unicamente los elemento del viejo que "pasen la
 
 ```js
 const numbers = [1,2,3,4,5,6];
-const even = number.filter(n => n&2 =)
-```
+const even = numbers.filter(n => n % 2 === 0);
 
-![Image](https://pbs.twimg.com/media/E0ht_evXMAMbm7S?format=png&name=small)
+console.log(even)
+// [2,4,6]
+```
 
 ## ```find()```
 
@@ -58,7 +59,13 @@ El metodo se detiene cuando encuentra el primer elemento que "pase la prueba".
 
 Si no encuentra ninguno, devuelve undefined.
 
-![Image](https://pbs.twimg.com/media/E0ht_eZXsAM7pZf?format=png&name=small)
+```js
+const numbers = [1,2,3,4,5,6];
+const even = numbers.find(n => n === 3);
+
+console.log(even)
+// 3
+```
 
 ## ```findIndex()```
 
@@ -66,7 +73,13 @@ Es muy similar al metodo [[#^df2974 | find()]] pero devuelve el index en vez del
 
 Tambien se detiene cuando encuentra el primer elemento que "pase la prueba".
 
-![Image](https://pbs.twimg.com/media/E0ht_e5XsAUusSz?format=png&name=small)
+```js
+const numbers = [2,9,3,5,1,8];
+const indexOfThree = numbers.findIndex(n => n === 3);
+
+console.log(indexOfThree);
+// 2
+```
 
 ## ```reduce()```
 
@@ -74,7 +87,13 @@ Este metodo toma un callback con al menos dos argumentos. Un acumulador y el ele
 
 Por cada iteracion, el valor retornado es pasado como argumento acumulador a la siguiente iteración.
 
-![Image](https://pbs.twimg.com/media/E0ht_ezX0AM-ahP?format=png&name=small)
+```js
+const numbers = [1,2,3,4,5,6];
+const sum = numbers.reduce((acc, n) => acc + n);
+
+console.log(sum)
+// 21
+```
 
 ## ```some()```
 
@@ -82,13 +101,27 @@ Por cada iteracion, el valor retornado es pasado como argumento acumulador a la 
 
 Toma una función con una prueba y devuelve true si alguno de los elementos "pasa la prueba".
 
-![Image](https://pbs.twimg.com/media/E0ht_ecXEAEKjLw?format=png&name=small)
+```js
+const numbers = [1,2,3,4,5,6];
+const hasAboveThree = numbers.some(n => n > 3);
+
+console.log(hasAboveThree)
+// true
+```
 
 ## ```every()```
 
 Similar al [[#^526ec4 | Some()]], toma una funcion con una prueba y devuelve true si todos los elementos "pasan la prueba".
 
 ![Image](https://pbs.twimg.com/media/E0ht_efXMAAmpHD?format=png&name=small)
+
+```js
+const numbers = [1,2,3,4,5,6];
+const allAboveThree = numbers.every(n => n > 3);
+
+console.log(hasAboveThree)
+// false
+```
 
 ## ```includes()```
 
