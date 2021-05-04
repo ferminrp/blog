@@ -30,7 +30,7 @@ Crea un nuevo array que contiene unicamente los elemento del viejo que "pasen la
 
 ^df2974
 
-Es similar al metodo [[#^261f9e]] pero solo devuelve un elemento.
+Es similar al metodo [[#^261f9e | filter()]] pero solo devuelve un elemento.
 
 El metodo se detiene cuando encuentra el primer elemento que "pase la prueba".
 
@@ -40,7 +40,7 @@ Si no encuentra ninguno, devuelve undefined.
 
 ## ```findIndex()```
 
-Es muy similar al metodo [[#^df2974]] pero devuelve el index en vez del elemento.
+Es muy similar al metodo [[#^df2974 | find()]] pero devuelve el index en vez del elemento.
 
 Tambien se detiene cuando encuentra el primer elemento que "pase la prueba".
 
@@ -50,4 +50,24 @@ Tambien se detiene cuando encuentra el primer elemento que "pase la prueba".
 
 Este metodo toma un callback con al menos dos argumentos. Un acumulador y el elemento actual.
 
-Por cada iteracion, el valor retornado es pasado como acumulador a 
+Por cada iteracion, el valor retornado es pasado como argumento acumulador a la siguiente iteración.
+
+![Image](https://pbs.twimg.com/media/E0ht_ezX0AM-ahP?format=png&name=small)
+
+## ```some()```
+
+^526ec4
+
+Toma una función con una prueba y devuelve true si alguno de los elementos "pasa la prueba".
+
+![Image](https://pbs.twimg.com/media/E0ht_ecXEAEKjLw?format=png&name=small)
+
+## ```every()```
+
+Similar al [[#^526ec4 | Some()]], toma una funcion con una prueba y devuelve true si todos los elementos "pasan la prueba".
+
+![Image](https://pbs.twimg.com/media/E0ht_efXMAAmpHD?format=png&name=small)
+
+## ```includes()```
+
+Devuelve true si el array contiene entre sus elementos el valor dado.
