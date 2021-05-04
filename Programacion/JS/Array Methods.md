@@ -28,6 +28,8 @@ Crea un nuevo array que contiene unicamente los elemento del viejo que "pasen la
 
 ## ```find()```
 
+^df2974
+
 Es similar al metodo [[#^261f9e]] pero solo devuelve un elemento.
 
 El metodo se detiene cuando encuentra el primer elemento que "pase la prueba".
@@ -35,3 +37,17 @@ El metodo se detiene cuando encuentra el primer elemento que "pase la prueba".
 Si no encuentra ninguno, devuelve undefined.
 
 ![Image](https://pbs.twimg.com/media/E0ht_eZXsAM7pZf?format=png&name=small)
+
+## ```findIndex()```
+
+Es muy similar al metodo [[#^df2974]] pero devuelve el index en vez del elemento.
+
+Tambien se detiene cuando encuentra el primer elemento que "pase la prueba".
+
+![Image](https://pbs.twimg.com/media/E0ht_e5XsAUusSz?format=png&name=small)
+
+## ```reduce()```
+
+Este metodo toma un callback con al menos dos argumentos. Un acumulador y el elemento actual.
+
+Por cada iteracion, el valor retornado es pasado como acumulador a 
