@@ -15,6 +15,17 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "36e2c43926113234",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/JS/Array Methods.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Middlewares/Express Validator.md",
+                "file": "Programacion/JS/Array Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +115,9 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "0641123d5724ff39",
+  "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "Programacion/JS/Array Methods.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Attachments/Pasted image 20210503115301.png",
     "Programacion/Express/Middlewares/Untitled.md",
@@ -114,7 +126,6 @@
     "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
     "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
     "Programacion/Express/Multer/Validacion de archivos con Multer.md",
-    "Programacion/Express/Multer/Subiendo archivos con Multer.md",
-    "Programacion/Express/Multer/Untitled.md"
+    "Programacion/Express/Multer/Subiendo archivos con Multer.md"
   ]
 }
