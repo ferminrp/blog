@@ -204,3 +204,9 @@ Form Design: 13 Empirically Backed Best Practices | [CXL](https://cxl.com/blog/f
 The UX behind designing better forms | [UxDesign](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2)
 
 ![](https://miro.medium.com/max/3334/1*CrkpS2h0AEydKvbuiWP1yA.jpeg)
+
+### Shadows
+
+Make your shadows awesome | [UxDesign](https://bootcamp.uxdesign.cc/make-your-shadows-awesome-efd308762bc4)
+
+![A card with the words, “Shadows: How to make it better” written on it.](https://miro.medium.com/max/7680/1*5NUcmGMaDQZaV1hw1sYS1Q.png)
