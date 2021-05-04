@@ -4,19 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0641123d5724ff39",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programacion/Express/Middlewares/Express Validator.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "36e2c43926113234",
         "type": "leaf",
         "state": {
@@ -25,7 +12,20 @@
             "file": "Programacion/JS/Array Methods.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "2d29ceb231cab281"
+      },
+      {
+        "id": "b92e95fa41f6e371",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/JS/Array Methods.md",
+            "mode": "source"
+          }
+        },
+        "group": "2d29ceb231cab281"
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 392,
+    "collapsed": true
   },
   "right": {
     "id": "ece1d71b1fb3cf37",
@@ -115,7 +116,7 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "36e2c43926113234",
+  "active": "b92e95fa41f6e371",
   "lastOpenFiles": [
     "Programacion/JS/Array Methods.md",
     "Programacion/Express/Middlewares/Express Validator.md",

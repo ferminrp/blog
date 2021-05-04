@@ -12,7 +12,13 @@ El metodo map crea un nuevo array.
 
 Dentro del array, lo llena con el resultado de una funcion callback que pasa por cada elemento del array viejo.
 
-![Image](https://pbs.twimg.com/media/E0ht_ezX0AQBK9c?format=png&name=small)
+```js
+const numbers = [1,2,3,4,5];
+const doubled = numbers.map(value => value * 2);
+
+console.log(doubled);
+// [2,4,6,8,10]
+```
 
 ## ```forEach()```
 
@@ -20,13 +26,25 @@ Ejecuta una función, una vez por cada elemento en el array.
 
 Esta función callback no espera un resultado o return.
 
-![Image](https://pbs.twimg.com/media/E0ht_egWYAEqff5?format=png&name=small)
+```js
+const numbers = [1,2,3,4,5,6];
+const allNumbers = numbers.forEach(
+	n => console.log(n)
+);
+
+// 1 2 3 4 5 6
+```
 
 ## ```filter()```
 
 ^261f9e
 
 Crea un nuevo array que contiene unicamente los elemento del viejo que "pasen la prueba" de la función callback.
+
+```js
+const numbers = [1,2,3,4,5,6];
+const even = number.filter(n => n&2 =)
+```
 
 ![Image](https://pbs.twimg.com/media/E0ht_evXMAMbm7S?format=png&name=small)
 
