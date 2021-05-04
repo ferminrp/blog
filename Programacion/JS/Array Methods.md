@@ -6,6 +6,8 @@ Source: "https://twitter.com/SimonHoiberg/status/1389481427302035457?s=09"
 
 ## ```map()```
 
+^fba7d9
+
 El metodo map crea un nuevo array.
 
 Dentro del array, lo llena con el resultado de una funcion callback que pasa por cada elemento del array viejo.
@@ -90,6 +92,8 @@ Da vuelta el orden de los elementos del array
 
 ## ```flat()```
 
+^4caf77
+
 Crea un nuevo array con todos sub arrays elevados al mismo nivel. Tambien se puede especificar el nivel de profundidad.
 
 ![Image](https://pbs.twimg.com/media/E0ht_ewXEAA_ZVj?format=png&name=small)
@@ -98,4 +102,12 @@ Crea un nuevo array con todos sub arrays elevados al mismo nivel. Tambien se pue
 
 Aplica un callback a cada elemento del array y despues eleva todos los sub arrays al mismo nivel.
 
-Funciona como un mix de [[^fla]]
+Funciona como un mix de [[#^4caf77 | flat()]] y [[#^fba7d9 | map()]] 
+
+![Image](https://pbs.twimg.com/media/E0ht_exWEAAvCJU?format=png&name=small)
+
+## ```sort()```
+
+Se usa para ordenar los elementos de un array. Este metodo modifica el array original.
+
+![Image](https://pbs.twimg.com/media/E0ht_e2XoAcDn2z?format=png&name=small)
