@@ -119,7 +119,7 @@ Similar al [[#^526ec4 | Some()]], toma una funcion con una prueba y devuelve tru
 const numbers = [1,2,3,4,5,6];
 const allAboveThree = numbers.every(n => n > 3);
 
-console.log(hasAboveThree)
+console.log(allAboveThree)
 // false
 ```
 
