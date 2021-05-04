@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/Array Methods.md",
-            "mode": "source"
+            "file": "Daily Logs/2021/Mayo/2021-05-01.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/Array Methods.md",
+                "file": "Daily Logs/2021/Mayo/2021-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "2021-05-01.md",
     "Programacion/JS/Array Methods.md",
     "Diseño/Articulos Diseño UI.md",
     "Programacion/Express/Middlewares/Express Validator.md",
@@ -112,7 +113,6 @@
     "Programacion/Express/Middlewares/Middlewares de aplicacion global con Express.md",
     "Programacion/Express/CRUD/Manejo de peticiones POST con Express.md",
     "Programacion/Express/CRUD/Manejo de peticiones PUT y DELETE con Express.md",
-    "Programacion/EJS/EJS compartir información del controlador a las vistas.md",
-    "Programacion/Express/Multer/Validacion de archivos con Multer.md"
+    "Programacion/EJS/EJS compartir información del controlador a las vistas.md"
   ]
 }
