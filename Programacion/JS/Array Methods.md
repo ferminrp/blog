@@ -1,4 +1,6 @@
-https://twitter.com/SimonHoiberg/status/1389481427302035457?s=09
+---
+Source: "https://twitter.com/SimonHoiberg/status/1389481427302035457?s=09"
+---
 
 14 metodos de arrays en JS para hacernos la vida mas fácil
 
@@ -71,3 +73,29 @@ Similar al [[#^526ec4 | Some()]], toma una funcion con una prueba y devuelve tru
 ## ```includes()```
 
 Devuelve true si el array contiene entre sus elementos el valor dado.
+
+![Image](https://pbs.twimg.com/media/E0ht_evXEAINrqo?format=png&name=small)
+
+## ```fill()```
+
+Reemplaza todos los elementos del array por un valor dado.
+
+![Image](https://pbs.twimg.com/media/E0ht_eeWYAEHJxi?format=png&name=small)
+
+## ```reverse()```
+
+Da vuelta el orden de los elementos del array
+
+![Image](https://pbs.twimg.com/media/E0ht_eaXEAMUti-?format=png&name=small)
+
+## ```flat()```
+
+Crea un nuevo array con todos sub arrays elevados al mismo nivel. Tambien se puede especificar el nivel de profundidad.
+
+![Image](https://pbs.twimg.com/media/E0ht_ewXEAA_ZVj?format=png&name=small)
+
+## ```flatMap()```
+
+Aplica un callback a cada elemento del array y despues eleva todos los sub arrays al mismo nivel.
+
+Funciona como un mix de [[^fla]]
