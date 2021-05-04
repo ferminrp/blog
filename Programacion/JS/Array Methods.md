@@ -20,6 +20,7 @@ console.log(doubled);
 // [2,4,6,8,10]
 ```
 
+
 ## ```forEach()```
 
 Ejecuta una función, una vez por cada elemento en el array.
@@ -167,14 +168,13 @@ console.log(reversed)
 
 Crea un nuevo array con todos sub arrays elevados al mismo nivel. Tambien se puede especificar el nivel de profundidad.
 
-![Image](https://pbs.twimg.com/media/E0ht_ewXEAA_ZVj?format=png&name=small)
 
 ```js
 const numbers = [[1,2], [[3], [4]], [5,6]];
-const flattened = numbers.reverse();
+const flattened = numbers.flat(2);
 
-console.log(reversed)
-// [6,5,4,3,2,1]
+console.log(flattened)
+// [1,2,3,4,5,6]
 ```
 
 ## ```flatMap()```
@@ -183,10 +183,22 @@ Aplica un callback a cada elemento del array y despues eleva todos los sub array
 
 Funciona como un mix de [[#^4caf77 | flat()]] y [[#^fba7d9 | map()]] 
 
-![Image](https://pbs.twimg.com/media/E0ht_exWEAAvCJU?format=png&name=small)
+```js
+const numbers = [[1], [2], [3], [4], [5] ,[6]];
+const flattenedDoubles = numbers.flatMap((n) => n * 2);
+
+console.log(flattenedDoubles)
+// [1,2,3,4,5,6]
+```
 
 ## ```sort()```
 
 Se usa para ordenar los elementos de un array. Este metodo modifica el array original.
 
-![Image](https://pbs.twimg.com/media/E0ht_e2XoAcDn2z?format=png&name=small)
+```js
+const numbers = [2, 9, 3, 5, 1, 8];
+numbers.sort((a, b) => a - b);
+
+console.log(numbers);
+// [1,2,3,5,8,9]
+```
