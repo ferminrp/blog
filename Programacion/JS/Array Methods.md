@@ -2,7 +2,9 @@
 Source: "https://twitter.com/SimonHoiberg/status/1389481427302035457?s=09"
 ---
 
-14 metodos de arrays en JS para hacernos la vida mas fácil
+14 metodos de arrays en JS para hacernos la vida mas fácil.
+
+Podes bajarte el apunte en pdf desde ac
 
 ## ```map()```
 

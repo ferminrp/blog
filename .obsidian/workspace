@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diseño/Articulos Diseño UI.md",
-            "mode": "preview"
+            "file": "Programacion/JS/Array Methods.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño/Articulos Diseño UI.md",
+                "file": "Programacion/JS/Array Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,8 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
-    "Diseño/Articulos Diseño UI.md",
     "Programacion/JS/Array Methods.md",
+    "Diseño/Articulos Diseño UI.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Attachments/Pasted image 20210503115301.png",
     "Programacion/Express/Middlewares/Untitled.md",
