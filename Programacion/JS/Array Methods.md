@@ -203,4 +203,4 @@ console.log(numbers);
 // [1,2,3,5,8,9]
 ```
 
-Si estos apuntes te sirvieron, podes regalarme un cafe 
+Si estos apuntes te sirvieron, podes [regalarme un cafe](https://cafecito.app/ferminrp) ☕ o seguirme en [twitter](https://twitter.com/ferminrp/) 🐥
