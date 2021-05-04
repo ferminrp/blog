@@ -113,7 +113,6 @@ console.log(hasAboveThree)
 
 Similar al [[#^526ec4 | Some()]], toma una funcion con una prueba y devuelve true si todos los elementos "pasan la prueba".
 
-![Image](https://pbs.twimg.com/media/E0ht_efXMAAmpHD?format=png&name=small)
 
 ```js
 const numbers = [1,2,3,4,5,6];
@@ -127,19 +126,40 @@ console.log(allAboveThree)
 
 Devuelve true si el array contiene entre sus elementos el valor dado.
 
-![Image](https://pbs.twimg.com/media/E0ht_evXEAINrqo?format=png&name=small)
+
+```js
+const numbers = [1,2,3,4,5,6];
+const hasTheNumberFour = numbers.includes(4);
+
+console.log(hasTheNumberFour)
+// false
+```
 
 ## ```fill()```
 
 Reemplaza todos los elementos del array por un valor dado.
 
-![Image](https://pbs.twimg.com/media/E0ht_eeWYAEHJxi?format=png&name=small)
+
+```js
+const numbers = [1,2,3,4,5,6];
+const populateWithFour = numbers.fill(4);
+
+console.log(populateWithFour);
+// [4, 4, 4, 4, 4, 4]
+```
 
 ## ```reverse()```
 
 Da vuelta el orden de los elementos del array
 
-![Image](https://pbs.twimg.com/media/E0ht_eaXEAMUti-?format=png&name=small)
+
+```js
+const numbers = [1,2,3,4,5,6];
+const reversed = numbers.reverse();
+
+console.log(reversed)
+// [6,5,4,3,2,1]
+```
 
 ## ```flat()```
 
@@ -148,6 +168,14 @@ Da vuelta el orden de los elementos del array
 Crea un nuevo array con todos sub arrays elevados al mismo nivel. Tambien se puede especificar el nivel de profundidad.
 
 ![Image](https://pbs.twimg.com/media/E0ht_ewXEAA_ZVj?format=png&name=small)
+
+```js
+const numbers = [[1,2], [[3], [4]], [5,6]];
+const flattened = numbers.reverse();
+
+console.log(reversed)
+// [6,5,4,3,2,1]
+```
 
 ## ```flatMap()```
 
