@@ -20,7 +20,40 @@ Tambien se puedeoptar por "*Hungarian Notation*" que diga al principio del nombr
 
 ## Evitar variables globales
 
-Cada archivo JavaScript incluido en la página corre en el mismo scope. Si tenes variables globales definid
+Cada archivo JavaScript incluido en la página corre en el mismo scope. Si tenes variables globales definidas, scripts que vengan despues del tuyo que contengan la misma variable o nombres de funcion van a sobre escribir o leer tus variables.
+
+Una forma de evitar que tus variables se sobre escriban es teniendolas dentro de un objeto literal.
+
+Entonces en vez de: 
+
+```js
+var current = null;
+function init(){...}
+function change(){...}
+function verify(){...}
+```
+
+Tenemos algo como:
+
+```js
+var myNameSpace = {
+  current:null,
+  init:function(){...},
+  change:function(){...},
+  verify:function(){...}
+}
+```
+
+Tambien, para evitar estar escribiendo name:function() too el tiempo podemos envolver todo en una función.
+
+```js
+var myNameSpace = {
+  current:null,
+  init:function(){...},
+  change:function(){...},
+  verify:function(){...}
+}
+```
 
 ## Mantener un estilo estricto
 
