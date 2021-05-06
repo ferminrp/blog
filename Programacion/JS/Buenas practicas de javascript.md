@@ -46,14 +46,22 @@ var myNameSpace = {
 
 Tambien, para evitar estar escribiendo name:function() too el tiempo podemos envolver todo en una función.
 
+Si queremos aparte definir alias para algunas functiones, podemos agregar un objeto en el return{...}
+
 ```js
-var myNameSpace = {
-  current:null,
-  init:function(){...},
-  change:function(){...},
-  verify:function(){...}
-}
+myNameSpace = function(){
+  var current = null;
+  function init(){...}
+  function change(){...}
+  function verify(){...}
+  return{
+    init:init,
+    set:change
+  }
+}();
 ```
+
+De esta manera cuando llamamos a ```myNameSpace.set()``` estamos llamando en realidad al metodo ```change()```
 
 ## Mantener un estilo estricto
 
