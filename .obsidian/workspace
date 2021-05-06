@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/Array Methods.md",
-            "mode": "preview"
+            "file": "Programacion/CSS/How to/Como freezar columnas de una tabla con css.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/Array Methods.md",
+                "file": "Programacion/CSS/How to/Como freezar columnas de una tabla con css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "Programacion/CSS/How to/Untitled.md",
     "Programacion/JS/Array Methods.md",
     "Attachments/Code.pdf",
     "Attachments/Apuntes PDF/javascript array methods.pdf",
@@ -112,7 +113,6 @@
     "Programacion/Express/Middlewares/Express Validator.md",
     "Attachments/Pasted image 20210503115301.png",
     "Programacion/Express/Middlewares/Untitled.md",
-    "Programacion/Express/Middlewares/Middlewares de aplicacion global con Express.md",
-    "Programacion/Express/CRUD/Manejo de peticiones POST con Express.md"
+    "Programacion/Express/Middlewares/Middlewares de aplicacion global con Express.md"
   ]
 }
