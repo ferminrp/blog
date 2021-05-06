@@ -20,10 +20,32 @@ Tambien se puedeoptar por "*Hungarian Notation*" que diga al principio del nombr
 
 ## Evitar variables globales
 
+Cada archivo JavaScript incluido en la página corre en el mismo scope. Si tenes variables globales definid
+
 ## Mantener un estilo estricto
 
 ## Comentar lo necesario, no mas
 
 ## Evitar mezclar tecnologias
 
-## 
+## Usar shortcut notation solo si tiene sentido hacerlo
+
+## Modularizá - Una función por tarea
+
+## Mejora progresivamente
+
+## Evita mucha anidación
+
+## Optimiza los loops
+
+## Evita el acceso al DOM lo máximo posible
+
+## No rendirse a los caprichos de cada browser
+
+## No confiar nada de información
+
+## Usa JS para dar funcionalidad, no crear contenido
+
+## Construi sobre las bases de los grandes
+
+## Codigo en desarrollo no es codigo en producción
