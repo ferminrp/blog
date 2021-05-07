@@ -128,3 +128,13 @@ const validateRegister = [ … ];
 // Procesamiento del formulario de creación
 router.post('/', validateRegister, userController.processRegister);
 ```
+
+
+### 4. Verificar si hubo errores en la validación desde el controlador. 
+
+El primer paso va a ser requerir el módulo y usando desestructuración, pedir el método ```validationResult```.
+
+
+```js
+const { validationResult }
+```
