@@ -67,7 +67,15 @@ De esta manera cuando llamamos a ```myNameSpace.set()``` estamos llamando en rea
 
 La manera mas fácil de controlar la calidad sintactica de tu código es pasandolo por [JSLint](http://www.jslint.com/) para validarlo.
 
+Mantener un estilo limpio y ordenado hace que sea mas fácil entender de donde vienen los bugs y hacer un mejor handover a otros devs.
+
 ## Comentar lo necesario, no mas
+
+Los comentarios son los mensajes que dejamos a futuros developers o a nosotros mismos en el futuro.
+
+El código deberia explicarse solo pero los comments no molestan a nadie.
+
+Siempre usar ```/* */``` en vez de single line  ```//``` que se puede romper si alguien usa un minifier.
 
 ## Evitar mezclar tecnologias
 
