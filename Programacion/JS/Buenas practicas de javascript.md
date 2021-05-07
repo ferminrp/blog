@@ -65,6 +65,8 @@ De esta manera cuando llamamos a ```myNameSpace.set()``` estamos llamando en rea
 
 ## Mantener un estilo estricto
 
+La manera mas fácil de controlar la calidad sintactica de tu código es pasandolo por [JSLint](http://www.jslint.com/) para validarlo.
+
 ## Comentar lo necesario, no mas
 
 ## Evitar mezclar tecnologias
