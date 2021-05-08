@@ -79,9 +79,11 @@ Siempre usar ```/* */``` en vez de single line  ```//``` que se puede romper si 
 
 ## Evitar mezclar tecnologias
 
-## Usar shortcut notation solo si tiene sentido hacerlo
+Si bien es posible editar el estilo de los elementos y el DOM con Js, es mejor dejarle eso a CSS.
 
 ## Modularizá - Una función por tarea
+
+Crear funciones que manejan una sola tarea hace mucho mas sencillo para otros developers entender y mantener nuestro código.
 
 ## Mejora progresivamente
 
