@@ -209,4 +209,15 @@ Cada error contendrá: el mensaje (msg), el nombre del campo (param), el valor i
 
 Haciendo uso de EJS, podremos preguntar si un campo determinado tiene errores. Si ese es el caso, podremos mostrar el mensaje de error. 
 
-Es importante tener en cuenta que la primera vez que se cargue el formulario no habrá errores, y por lo tanto esa variable estará vacía. Para evitar problemas, siempre debemos preguntar si la variable de errores existe antes de intentar mostrar un error. El código podría verse de la siguiente manera:
+Es importante tener en cuenta que la primera vez que se cargue el formulario no habrá errores, y por lo tanto esa variable estará vacía. Para evitar problemas, siempre debemos preguntar si la variable de errores existe antes de intentar mostrar un error. 
+
+El código podría verse de la siguiente manera:
+
+```html
+<label for="email">Correo electrónico:</label>
+<input type="email" name="email" id="email">
+<% if (locals.errors && errors.name) { %>
+ 	<p class="feedback"><%= errors.name %></p>
+<% } %>
+
+```
