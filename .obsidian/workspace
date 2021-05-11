@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Middlewares/Express Validator.md",
+            "file": "Home.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Middlewares/Express Validator.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "Home.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Programacion/JS/Buenas practicas de javascript.md",
     "Programacion/JS/Untitled.md",
@@ -112,7 +113,6 @@
     "Programacion/JS/Array Methods.md",
     "Attachments/Code.pdf",
     "Attachments/Apuntes PDF/javascript array methods.pdf",
-    "2021-05-01.md",
-    "Diseño/Articulos Diseño UI.md"
+    "2021-05-01.md"
   ]
 }
