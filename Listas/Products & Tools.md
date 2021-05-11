@@ -125,4 +125,8 @@ Un listado bastante actualizado de herramientas que uso seguido. Para uso person
 -   Signal
 -   Telegram
 
+### Json
+
+- [Mockaroo - Random Json generator](https://mockaroo.com/9a8c0d00)
+
 ¿Tenes recomendaciones? Escribíme via twitter: **[@ferminrp](https://collectednotes.com/ferminrp/twitter.com/ferminrp)**
