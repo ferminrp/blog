@@ -121,13 +121,13 @@ Un listado bastante actualizado de herramientas que uso seguido. Para uso person
 
 ### Privacy
 
--   DuckDuckGo
--   Signal
--   Telegram
+-   DuckDuckGo - Google Alternative
+-   Signal - Whatsapp alternative
+-   Telegram - Whatsapp alternative (no tiene e2e encryption)
 
 ### Json
 
-- [Mockaroo - Random Json generator](https://mockaroo.com/9a8c0d00)
+- [**Mockaroo** - Random Json generator](https://mockaroo.com/9a8c0d00)
 
 
 ### Icons
