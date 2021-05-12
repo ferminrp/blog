@@ -1,6 +1,6 @@
 Un listado bastante actualizado de herramientas que uso seguido. Para uso personal como de laburo. Si tenes recomendaciones siempre son bienvenidas via twitter: **[@ferminrp](https://twitter.com/ferminrp)**
 
-Último update: 2021-04-26
+Último update: 2021-05-12
 
 ### **SEO**
 
@@ -128,5 +128,13 @@ Un listado bastante actualizado de herramientas que uso seguido. Para uso person
 ### Json
 
 - [Mockaroo - Random Json generator](https://mockaroo.com/9a8c0d00)
+
+
+### Icons
+
+- [**Iconoir**](https://iconoir.com/)
+- [**Iconic**](https://iconic.app)
+- [**Heroicons**](https://heroicons.com/)
+- [**Feather Icons**](https://feathericons.com)
 
 ¿Tenes recomendaciones? Escribíme via twitter: **[@ferminrp](https://collectednotes.com/ferminrp/twitter.com/ferminrp)**
