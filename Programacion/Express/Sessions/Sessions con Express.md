@@ -21,5 +21,5 @@ req.session.idioma = "Español";
 O leerlo con:
 
 ```js
-let idioma = req.session.idioma
+let idioma = req.session.idioma;
 ```
