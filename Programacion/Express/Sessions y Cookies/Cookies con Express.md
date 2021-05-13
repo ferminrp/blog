@@ -1,0 +1,1 @@
+Una cookie es un archivo que se guarda del lado del cliente, es decir, en el navegador. Y cuyo objetivo principal es guardar información NO SENSIBLE que podamos recuperar fácilmente desde nuestra aplicación.
