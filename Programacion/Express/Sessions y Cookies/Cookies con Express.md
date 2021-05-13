@@ -22,3 +22,13 @@ Para crear una cookie y guardar información, ejecutamos el método ```cookie()`
 ```js
 res.cookie('club', 'C. A. Tigre')
 ```
+
+### Leyendo Cookies
+
+Para leer información de una cookie usamos el objeto request, llamando al objeto cookies, seguido del nombre de la cookie que definimos anteriormente: 
+
+```js
+console.log(req.cookies.club);
+```
+
+Cada vez que el cliente hace un pedido a nuestro sitio, envía todas las cookies que estén asociadas con él, por eso es que tiene lógica que las encontremos en el objeto request.
