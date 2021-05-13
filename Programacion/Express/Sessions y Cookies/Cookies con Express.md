@@ -14,4 +14,11 @@ Primero tenemos que instalar el módulo ```cookie-parser```
 npm i cookie-parser
 ```
 
-Para crear una cookie y guardar información, ejecutamos el método ```cookie()``` sobre el objeto ```response``` pasándole dos 
+Para crear una cookie y guardar información, ejecutamos el método ```cookie()``` sobre el objeto ```response``` pasándole dos argumentos:
+
+- El nombre que le queremos asignar a esa cookie.
+- El valor que tendrá
+
+```js
+res.cookie('club', 'C. A. Tigre')
+```
