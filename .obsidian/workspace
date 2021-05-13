@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Sessions y Cookies/Cookies con Express.md",
-            "mode": "preview"
+            "file": "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Sessions y Cookies/Cookies con Express.md",
+                "file": "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,7 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "Programacion/Express/Sessions y Cookies/Untitled.md",
     "Programacion/Express/Sessions/Untitled.md",
     "Programacion/Express/Sessions/Sessions con Express.md",
     "Listas/Products & Tools.md",
@@ -112,7 +113,6 @@
     "Home.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Programacion/JS/Untitled.md",
-    "Programacion/CSS/How to/Como freezar columnas de una tabla con css.md",
-    "Programacion/CSS/How to/Untitled.md"
+    "Programacion/CSS/How to/Como freezar columnas de una tabla con css.md"
   ]
 }
