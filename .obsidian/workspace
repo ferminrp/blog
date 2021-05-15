@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
+            "file": "Programacion/Express/Middlewares/Express Validator.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "req.para",
+                "query": "validator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
+                "file": "Programacion/Express/Middlewares/Express Validator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,8 @@
   },
   "active": "36e2c43926113234",
   "lastOpenFiles": [
+    "Programacion/Express/Middlewares/Express Validator.md",
+    "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
     "Programacion/Express/Sessions y Cookies/Untitled.md",
     "Programacion/Express/Sessions/Untitled.md",
     "Programacion/Express/Sessions/Sessions con Express.md",
@@ -111,8 +114,6 @@
     "Programacion/JS/Getting started with fetch.md",
     "Programacion/JS/Buenas practicas de javascript.md",
     "Home.md",
-    "Programacion/Express/Middlewares/Express Validator.md",
-    "Programacion/JS/Untitled.md",
-    "Programacion/CSS/How to/Como freezar columnas de una tabla con css.md"
+    "Programacion/JS/Untitled.md"
   ]
 }
