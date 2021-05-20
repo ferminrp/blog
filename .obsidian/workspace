@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "36e2c43926113234",
+        "id": "4d24b9651f955edf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Express/Middlewares/Express Validator.md",
-            "mode": "preview"
+            "file": "2021-05-17.md",
+            "mode": "source"
           }
         }
       }
@@ -56,12 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392
+    "width": 246
   },
   "right": {
     "id": "ece1d71b1fb3cf37",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Express/Middlewares/Express Validator.md",
+                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +102,9 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "36e2c43926113234",
+  "active": "4d24b9651f955edf",
   "lastOpenFiles": [
+    "2021-05-17.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
     "Programacion/Express/Sessions y Cookies/Untitled.md",
@@ -113,7 +113,6 @@
     "Listas/Products & Tools.md",
     "Programacion/JS/Getting started with fetch.md",
     "Programacion/JS/Buenas practicas de javascript.md",
-    "Home.md",
-    "Programacion/JS/Untitled.md"
+    "Home.md"
   ]
 }
