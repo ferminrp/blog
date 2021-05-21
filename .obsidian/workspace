@@ -7,11 +7,8 @@
         "id": "4d24b9651f955edf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-17.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
