@@ -7,8 +7,11 @@
         "id": "4d24b9651f955edf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/React/Recursos Sobre React.js.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion/React/Recursos Sobre React.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,7 @@
   },
   "active": "4d24b9651f955edf",
   "lastOpenFiles": [
+    "Programacion/React/Untitled.md",
     "2021-05-17.md",
     "Programacion/Express/Middlewares/Express Validator.md",
     "Programacion/Express/Sessions y Cookies/Hashing con Express.md",
@@ -108,7 +113,6 @@
     "Programacion/Express/Sessions/Sessions con Express.md",
     "Listas/Products & Tools.md",
     "Programacion/JS/Getting started with fetch.md",
-    "Programacion/JS/Buenas practicas de javascript.md",
-    "Home.md"
+    "Programacion/JS/Buenas practicas de javascript.md"
   ]
 }
