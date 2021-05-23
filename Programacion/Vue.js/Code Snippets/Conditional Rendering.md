@@ -28,3 +28,6 @@ Si solo queremos switchear entre mostrar o no mostrar un elemento, podemos usar 
 	<p v-show="inStock">In Stock</p>
 </div>
 ```
+
+Tambien podemos usar v-else-if, por ejemplo:
+
