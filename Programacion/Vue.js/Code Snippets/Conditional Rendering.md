@@ -31,3 +31,8 @@ Si solo queremos switchear entre mostrar o no mostrar un elemento, podemos usar 
 
 Tambien podemos usar v-else-if, por ejemplo:
 
+```html
+<p v-if="stock > 10">In Stock</p>
+<p v-else-if="stock < 10 && stock > 0">Almost out of stock</p>
+<p v-else>Out of Stock</p>
+```

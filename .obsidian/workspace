@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "3419edcb0dfe8886",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
