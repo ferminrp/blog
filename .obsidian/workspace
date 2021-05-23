@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+            "file": "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+                "file": "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "4d24b9651f955edf",
   "lastOpenFiles": [
+    "Programacion/Vue.js/Code Snippets/Untitled.md",
     "Programacion/Vue.js/Intro to Vue.js 3.0.md",
     "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
-    "Programacion/Vue.js/Code Snippets/Untitled.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
     "Programacion/Vue.js/Untitled.md",
     "Programacion/Vue.js/Vue.js Resources.md",
