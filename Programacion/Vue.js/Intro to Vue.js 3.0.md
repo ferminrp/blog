@@ -35,3 +35,8 @@ A esta altura en nuestro desarrollo vamos a tener el código para la aplicación
 
 Para montar esa aplicación que esta en main.js vamos a crear un nuevo script que sea algo así:
 
+```html
+<script>
+const mountedApp = app.mount('#app')
+</script>
+```
