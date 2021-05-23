@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 365
   },
   "right": {
     "id": "ece1d71b1fb3cf37",
@@ -104,15 +104,15 @@
   },
   "active": "4d24b9651f955edf",
   "lastOpenFiles": [
+    "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
+    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
     "Programacion/Vue.js/Code Snippets/Untitled.md",
     "Programacion/Vue.js/Intro to Vue.js 3.0.md",
-    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
     "Programacion/Vue.js/Untitled.md",
     "Programacion/Vue.js/Vue.js Resources.md",
     "Programacion/React/Recursos Sobre React.js.md",
     "Programacion/JS/Javascript Code Snippets/Untitled.md",
-    "Programacion/React/Untitled.md",
-    "2021-05-17.md"
+    "Programacion/React/Untitled.md"
   ]
 }
