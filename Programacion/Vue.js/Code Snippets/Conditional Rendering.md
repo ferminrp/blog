@@ -19,3 +19,12 @@ const app = Vue.createApp({
     }
 })
 ```
+
+Si solo queremos switchear entre mostrar o no mostrar un elemento, podemos usar v-show
+
+```html
+<div class="product-info">
+	<h1>{{ product }}</h1>
+	<p v-show="inStock">In Stock</p>
+</div>
+```
