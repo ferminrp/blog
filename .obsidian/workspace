@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Vue.js/Code Snippets/Untitled.md",
+            "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "380a30a6db30141f",
+        "id": "3419edcb0dfe8886",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+            "file": "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Vue.js/Code Snippets/Untitled.md",
+                "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "4d24b9651f955edf",
   "lastOpenFiles": [
+    "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
     "Programacion/Vue.js/Code Snippets/Untitled.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
-    "Programacion/Vue.js/Intro to Vue.js 3.0.md",
     "Programacion/Vue.js/Untitled.md",
     "Programacion/Vue.js/Vue.js Resources.md",
     "Programacion/React/Recursos Sobre React.js.md",
     "Programacion/JS/Javascript Code Snippets/Untitled.md",
     "Programacion/React/Untitled.md",
-    "2021-05-17.md",
-    "Programacion/Express/Middlewares/Express Validator.md"
+    "2021-05-17.md"
   ]
 }

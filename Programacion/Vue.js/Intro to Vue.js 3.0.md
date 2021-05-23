@@ -40,3 +40,15 @@ Para montar esa aplicación que esta en main.js vamos a crear un nuevo script qu
 const mountedApp = app.mount('#app')
 </script>
 ```
+
+# Binding attributes
+
+Podemos conectar atributos de una etiqueta html a un valor que este dentro de data. La sintaxis puede ser como cualquiera de estas dos:
+
+```html
+<img v-bind:src="image">
+```
+
+```html
+<img :src="image">
+```
