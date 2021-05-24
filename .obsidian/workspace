@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diseño/Articulos Diseño UI.md",
-            "mode": "source"
+            "file": "Diseño/Color Theory.md",
+            "mode": "preview"
           }
         }
       }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño/Articulos Diseño UI.md",
+                "file": "Diseño/Color Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "186ff12bb4b8691c",
   "lastOpenFiles": [
+    "Diseño/Color Theory.md",
     "Diseño/Articulos Diseño UI.md",
     "Programacion/HTTP/HTTP.md",
     "Concepts/Passion Economy.md",
@@ -125,7 +126,6 @@
     "Concepts/Neumorphism.md",
     "Programacion/Vue.js/Intro to Vue.js 3.0.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
-    "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
-    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md"
+    "Programacion/Vue.js/Code Snippets/Conditional Rendering.md"
   ]
 }
