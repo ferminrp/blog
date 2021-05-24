@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepts/Passion Economy.md",
+            "file": "Diseño/Articulos Diseño UI.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Passion Economy.md",
+                "file": "Diseño/Articulos Diseño UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "186ff12bb4b8691c",
   "lastOpenFiles": [
+    "Diseño/Articulos Diseño UI.md",
+    "Programacion/HTTP/HTTP.md",
     "Concepts/Passion Economy.md",
     "Home.md",
     "Concepts/Federated Learning of Cohorts - FLoC.md",
@@ -124,8 +126,6 @@
     "Programacion/Vue.js/Intro to Vue.js 3.0.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
     "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
-    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md",
-    "Programacion/Vue.js/Code Snippets/Untitled.md",
-    "Programacion/Vue.js/Untitled.md"
+    "Programacion/Vue.js/Code Snippets/Binding attributed with vue.js.md"
   ]
 }
