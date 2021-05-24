@@ -6,10 +6,23 @@
       {
         "id": "4d24b9651f955edf",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+            "file": "Home.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "186ff12bb4b8691c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Neumorphism.md",
             "mode": "source"
           }
         }
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Vue.js/Intro to Vue.js 3.0.md",
+                "file": "Concepts/Neumorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +115,10 @@
     "width": 330,
     "collapsed": true
   },
-  "active": "4d24b9651f955edf",
+  "active": "186ff12bb4b8691c",
   "lastOpenFiles": [
+    "Concepts/Neumorphism.md",
+    "Home.md",
     "Programacion/Vue.js/Intro to Vue.js 3.0.md",
     "Programacion/Vue.js/Code Snippets/Create and mount vue.js app.md",
     "Programacion/Vue.js/Code Snippets/Conditional Rendering.md",
@@ -111,8 +126,6 @@
     "Programacion/Vue.js/Code Snippets/Untitled.md",
     "Programacion/Vue.js/Untitled.md",
     "Programacion/Vue.js/Vue.js Resources.md",
-    "Programacion/React/Recursos Sobre React.js.md",
-    "Programacion/JS/Javascript Code Snippets/Untitled.md",
-    "Programacion/React/Untitled.md"
+    "Programacion/React/Recursos Sobre React.js.md"
   ]
 }
